@@ -1,6 +1,6 @@
 # CovidGame
 
-## A basic shooter game made for a school project.
+A basic shooter game made for a school project.
 Choose between two players and kill the corona with vaccine
 
 
