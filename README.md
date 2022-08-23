@@ -1,7 +1,6 @@
 # CovidGame
 
-A basic shooter game made for a school project. \n
-Choose between two players and kill the corona with vaccine
+A basic shooter game made for a school project. This project is made by me and my labpartner I was working with at the time. The game could use some more effort for it to be more enjoyable to play, but we did our best with the time we had for this project. I might come back to this project and make it better one day. Choose between two players and kill the corona with vaccine
 
 
 ## Screenshots
