@@ -3,10 +3,6 @@
 A basic shooter game made for a school project
 Choose between two players and kill the corona with vaccine
 
-## Demo
-
-Insert gif or link to demo
-
 
 ## Screenshots
 
